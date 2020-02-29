@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Book Keeping</string>
+    <string name="register"><u>Not Registered Yet!</u></string>
+    <string name="registered"><u>Registered Already!</u></string>
+
+    <string name="addAuthor">Add Author</string>
+    <string name="mngAuthor">Manage Author</string>
+    <string name="delAuthor">Delete Author</string>
+
+    <string name="addPublisher">Add Publisher</string>
+    <string name="mngPublisher">manage Publisher</string>
+    <string name="delPublisher">Delete Publisher</string>
+
+    <string name="addBook">Add Book</string>
+    <string name="mngBook">Manage Book</string>
+    <string name="delBook">Delete Book</string>
+
+</resources>
